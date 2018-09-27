@@ -1,0 +1,6 @@
+@article{zhuo2018occluded,
+  title={Occluded Person Re-identification},
+  author={Zhuo, Jiaxuan and Chen, Zeyu and Lai, Jianhuang and Wang, Guangcong},
+  journal={arXiv preprint arXiv:1804.02792},
+  year={2018}
+}
