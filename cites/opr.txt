@@ -1,0 +1,16 @@
+@article{DBLP:journals/corr/abs-1804-02792,
+  author    = {Jiaxuan Zhuo and
+               Zeyu Chen and
+               Jianhuang Lai and
+               Guangcong Wang},
+  title     = {Occluded Person Re-identification},
+  journal   = {CoRR},
+  volume    = {abs/1804.02792},
+  year      = {2018},
+  url       = {http://arxiv.org/abs/1804.02792},
+  archivePrefix = {arXiv},
+  eprint    = {1804.02792},
+  timestamp = {Mon, 13 Aug 2018 16:47:03 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/corr/abs-1804-02792},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
