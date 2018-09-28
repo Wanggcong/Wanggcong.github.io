@@ -1,4 +1,4 @@
-[Research](https://github.com/wanggcong/) &emsp;&emsp;                 [Publications](https://Wanggcong.github.io/publications)  &emsp;&emsp;         [Resource](https://github.com/wanggcong/)  &emsp;&emsp;&emsp;&emsp; [Awards and Honors](https://github.com/wanggcong/) 
+[Research](https://github.com/wanggcong/) &emsp;&emsp;                 [Publications](https://Wanggcong.github.io/publications)  &emsp;&emsp;         [Resource](https://github.com/wanggcong/)  &emsp;&emsp; [Awards and Honors](https://github.com/wanggcong/)&emsp;&emsp; [Related Link](https://wanggrun.github.io/)
 
 ## Guangcong Wang (王广聪)
 
@@ -42,7 +42,7 @@ Digital Image Processing, 2017
 
 ### **Links**
 
-[Google Scholar](https://scholar.google.com/citations?user=dk8EnkoAAAAJ&hl=en) &emsp; [Github](https://github.com/Wanggcong)&emsp;Arxiv&emsp;[Related Link](https://wanggrun.github.io/)
+[Google Scholar](https://scholar.google.com/citations?user=dk8EnkoAAAAJ&hl=en) &emsp; [Github](https://github.com/Wanggcong)&emsp;Arxiv&emsp;
 
 
 
