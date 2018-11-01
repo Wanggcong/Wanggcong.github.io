@@ -32,7 +32,7 @@ Kaggle 2/923 place in public leaderboard, 7/923 place in private leaderboard, 20
 
 Smart City Competition "Face Recognition", 2rd place, Chinese , 2016.
 
-Chinese Smart City Competition "Vehicle Retrieval", 3rd place, Chinese , 2016.
+Smart City Competition "Vehicle Retrieval", 3rd place, Chinese , 2016.
 
 ### **Teaching Assistant**
 
