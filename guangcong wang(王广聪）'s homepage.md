@@ -18,19 +18,21 @@ His research interest is person re-identification and semi-supervised learning. 
 
 ### **News**
 
+One paper is accepted by AAAI 2019.
+
 One paper is accepted by ICME 2018.
 
-One Chinese patent has been published, 2018.
+One patent has been published, Chinese, 2018.
 
 One paper is accepted by ICCV 2017.
 
 One paper is accepted by T-CSVT 2017.
 
-Kaggle 2/923 place in public leaderboard, 7/923 place in private leaderboard, 2016, [click]((https://www.kaggle.com/c/ultrasound-nerve-segmentation/leaderboard)).
+Kaggle 2/923 place in public leaderboard, 7/923 place in private leaderboard, 2016, [click](https://www.kaggle.com/c/ultrasound-nerve-segmentation/leaderboard)
 
-Chinese Smart City Competition "Face Recognition", 2rd place, 2016.
+Smart City Competition "Face Recognition", 2rd place, Chinese , 2016.
 
-Chinese Smart City Competition "Vehicle Retrieval", 3rd place, 2016.
+Chinese Smart City Competition "Vehicle Retrieval", 3rd place, Chinese , 2016.
 
 ### **Teaching Assistant**
 
