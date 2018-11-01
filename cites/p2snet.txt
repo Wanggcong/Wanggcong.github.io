@@ -2,7 +2,7 @@
   title={P2SNet : Can an Image Match a Video for Person Re-identification in an End-to-end Way?},
   author={G. Wang and J. Lai, and X. Xie},
   journal={IEEE Transactions on Circuits  and Systems for Video Technology},
-  volume={99},
-  pages={1-1},
+  volume={28},
+  pages={2777-2787},
   year={2017}
 }
