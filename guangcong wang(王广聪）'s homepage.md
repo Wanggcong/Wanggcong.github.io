@@ -18,6 +18,8 @@ His research interest is person re-identification and semi-supervised learning. 
 
 ### **News**
 
+One paper is released to arxiv, 2018.
+
 One paper is accepted by AAAI 2019.
 
 One paper is accepted by ICME 2018.
