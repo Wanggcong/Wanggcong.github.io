@@ -2,7 +2,7 @@
 
 
 
-W. Liang, G. Wang, J. Lai, and J. Zhu. M2M-GAN: Many-to-Many Generative Adversarial Transfer Learning for Person Re-Identification.  **arxiv**, 2018. [paper](https://arxiv.org/pdf/1811.03768.pdf)
+W. Liang, G. Wang, J. Lai, and J. Zhu. M2M-GAN: Many-to-Many Generative Adversarial Transfer Learning for Person Re-Identification.  **arxiv**, 2018. [paper](https://arxiv.org/pdf/1811.03768.pdf), [bibtex](https://github.com/Wanggcong/Wanggcong.github.io/blob/master/cites/m2m.txt)
 
 G. Wang, J. Lai, P. Huang and X. Xie. Spatial-Temporal Person Re-identification. **AAAI**, 2019.  Code will be released.
 
