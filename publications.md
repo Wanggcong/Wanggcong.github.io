@@ -12,7 +12,7 @@
 
 1. G. Wang, X. Xie, J. Lai and J Zhuo. Deep Growing Learning. **ICCV**, 2017. [paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Wang_Deep_Growing_Learning_ICCV_2017_paper.pdf), [code](https://github.com/Wanggcong/Deep-growing-learning),[bibtex](https://github.com/Wanggcong/Wanggcong.github.io/blob/master/cites/dgl.txt)  
 
-#### Other conference papers:
+#### Other conference/arxiv papers:
 
 2. W. Liang, G. Wang, J. Lai, and J. Zhu. M2M-GAN: Many-to-Many Generative Adversarial Transfer Learning for Person Re-Identification.  **arxiv**, 2018. [paper](https://arxiv.org/pdf/1811.03768.pdf), [bibtex](https://github.com/Wanggcong/Wanggcong.github.io/blob/master/cites/m2m.txt)
 
