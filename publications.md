@@ -8,7 +8,7 @@
 
 #### Top conference papers:
 
-2）G. Wang, J. Lai, P. Huang and X. Xie. Spatial-Temporal Person Re-identification. **AAAI**, 2019.  (16.2% accepted rate) [code](https://github.com/Wanggcong/Spatial-Temporal-Re-identification), [bibtex](https://github.com/Wanggcong/Wanggcong.github.io/blob/master/cites/st_reid.txt), paper.
+2）G. Wang, J. Lai, P. Huang and X. Xie. Spatial-Temporal Person Re-identification. **AAAI**, 2019.  (16.2% accepted rate) paper, [code](https://github.com/Wanggcong/Spatial-Temporal-Re-identification), [bibtex](https://github.com/Wanggcong/Wanggcong.github.io/blob/master/cites/st_reid.txt).
 
 1）G. Wang, X. Xie, J. Lai and J Zhuo. Deep Growing Learning. **ICCV**, 2017. [paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Wang_Deep_Growing_Learning_ICCV_2017_paper.pdf), [code](https://github.com/Wanggcong/Deep-growing-learning), [bibtex](https://github.com/Wanggcong/Wanggcong.github.io/blob/master/cites/dgl.txt)  
 
