@@ -20,7 +20,7 @@ He currently serves as a reviewer of Neurocomputing.
 
 ### **News**
 
-
+I have served as a reviewer of Neurocomputing.
 
 One paper is released to arxiv, 2018.
 
