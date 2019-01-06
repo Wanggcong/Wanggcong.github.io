@@ -16,7 +16,11 @@ Guangcong Wang is currently a PhD candidate of Sun Yat-sen University, advised b
 
 His research interest is person re-identification and semi-supervised learning. He has published 4 papers.  
 
+He currently serves as a reviewer of Neurocomputing.
+
 ### **News**
+
+
 
 One paper is released to arxiv, 2018.
 
