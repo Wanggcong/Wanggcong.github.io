@@ -34,7 +34,7 @@ One paper is accepted by ICCV 2017.
 
 One paper is accepted by T-CSVT 2017.
 
-Kaggle 2/923 place in public leaderboard, 7/923 place in private leaderboard, 2016, [click](https://www.kaggle.com/c/ultrasound-nerve-segmentation/leaderboard)
+Kaggle 2/923 place in public leaderboard, 7/923 place in private leaderboard, 2016, [link.](https://www.kaggle.com/c/ultrasound-nerve-segmentation/leaderboard)
 
 Smart City Competition "Face Recognition", 2rd place, Chinese , 2016.
 
