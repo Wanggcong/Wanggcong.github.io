@@ -14,7 +14,7 @@ Email: wanggc3@mail2.sysu.edu.cn
 
 Guangcong Wang is currently a PhD candidate of Sun Yat-sen University, advised by Prof. Jianhuang Lai.
 
-His research interest is person re-identification and semi-supervised learning. He has published 4 papers, such as ICCV, AAAI, and IEEE TCSVT.  
+His research interest is person re-identification and semi-supervised learning. He has published several papers, such as ICCV, AAAI, and IEEE TCSVT.  
 
 He currently serves as a reviewer of Neurocomputing.
 
