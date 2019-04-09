@@ -20,6 +20,10 @@ He currently serves as a reviewer of Neurocomputing.
 
 ### **News**
 
+One patent has been published, Chinese, 2019.
+
+Two papers are released to arxiv, 2019.
+
 I have served as a reviewer of Neurocomputing.
 
 One paper is released to arxiv, 2018.
