@@ -14,7 +14,7 @@
 
 #### Other conference/arxiv papers:
 
-4) Guangrun Wang, Guangcong Wang, Xujie Zhang, Jianhuang Lai, and Liang Lin. Weakly Supervised Person Re-identification: Cost-effective Learning with A New Benchmark. [paper](https://arxiv.org/abs/1904.03845), [bibtex](https://github.com/Wanggcong/Wanggcong.github.io/blob/master/cites/weak.txt).
+4) Guangrun Wang, Guangcong Wang, Xujie Zhang, Jianhuang Lai, and Liang Lin. Weakly Supervised Person Re-identification: Cost-effective Learning with A New Benchmark, **arxiv**, 2019. [paper](https://arxiv.org/abs/1904.03845), [bibtex](https://github.com/Wanggcong/Wanggcong.github.io/blob/master/cites/weak.txt).
 
 3) Guangcong Wang,  Jianhuang Lai, Zhenyu Xie and Xiaohua Xie. Discovering Underlying Person Structure Pattern with Relative Local Distance for Person Re-identification, **arxiv**, 2019. [paper](https://arxiv.org/abs/1901.10100), [code](https://github.com/Wanggcong/RLD_codes), [bibtex](https://github.com/Wanggcong/Wanggcong.github.io/blob/master/cites/rld.txt).
 
