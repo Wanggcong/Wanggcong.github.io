@@ -1,0 +1,5 @@
+@article{guangrun2019RLD,
+  title={Weakly Supervised Person Re-identification: Cost-effective Learning with A New Benchmark},
+  author={Guangrun Wang and Guangcong Wang and Xujie Zhang and Jianhuang Lai and Liang Lin},
+  journal={arXiv preprint arXiv:1904.03845},
+  year={2019}
