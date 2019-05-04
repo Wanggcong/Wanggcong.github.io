@@ -18,7 +18,7 @@
 
 3) Guangcong Wang,  Jianhuang Lai, Zhenyu Xie and Xiaohua Xie. Discovering Underlying Person Structure Pattern with Relative Local Distance for Person Re-identification, **arxiv**, 2019. [paper](https://arxiv.org/abs/1901.10100), [code](https://github.com/Wanggcong/RLD_codes), [bibtex](https://github.com/Wanggcong/Wanggcong.github.io/blob/master/cites/rld.txt).
 
-2) W. Liang, Guangcong Wang, Jianhuang Lai, and Junyong Zhu. M2M-GAN: Many-to-Many Generative Adversarial Transfer Learning for Person Re-Identification.  **arxiv**, 2018. [paper](https://arxiv.org/pdf/1811.03768.pdf), [bibtex](https://github.com/Wanggcong/Wanggcong.github.io/blob/master/cites/m2m.txt)
+2) Wenqi Liang, Guangcong Wang, Jianhuang Lai, and Junyong Zhu. M2M-GAN: Many-to-Many Generative Adversarial Transfer Learning for Person Re-Identification.  **arxiv**, 2018. [paper](https://arxiv.org/pdf/1811.03768.pdf), [bibtex](https://github.com/Wanggcong/Wanggcong.github.io/blob/master/cites/m2m.txt)
 
 1) Jiaxuan Zhuo, Zeyu Chen,  Jianhuang Lai and Guangcong Wang. Occluded Person Re-identification. **ICME**, 2018. [paper](https://arxiv.org/abs/1804.02792), [bibtex](https://github.com/Wanggcong/Wanggcong.github.io/blob/master/cites/opr.txt)  
 
