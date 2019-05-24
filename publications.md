@@ -24,7 +24,7 @@
 
 ------
 
-#### arxiv papers:
+#### Arxiv papers:
 
 3) Guangrun Wang, Guangcong Wang, Xujie Zhang, Jianhuang Lai, and Liang Lin. Weakly Supervised Person Re-identification: Cost-effective Learning with A New Benchmark, **arxiv**, 2019. [paper](https://arxiv.org/abs/1904.03845), [bibtex](https://github.com/Wanggcong/Wanggcong.github.io/blob/master/cites/weak.txt).
 
@@ -42,7 +42,7 @@
 
 ------
 
-#### Challenges:
+#### Challenge **competitions**:
 
 3) Kaggle 2/923 place in public leaderboard, 7/923 place in private leaderboard, 2016, [link](https://www.kaggle.com/c/ultrasound-nerve-segmentation/leaderboard)
 
