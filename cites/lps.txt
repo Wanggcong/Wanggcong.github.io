@@ -1,0 +1,6 @@
+@article{wgc2019lps,
+  title={Learnable Parameter Similarity},
+  author={WGuangcong Wang, Jianhuang Lai, Wenqi Liang, and Guangrun Wang},
+  journal={arXiv preprint arXiv:1907.11943},
+  year={2019}
+}
