@@ -1,6 +1,7 @@
 @article{guangcong2019aaai,
   title={Spatial-Temporal Person Re-identification},
   author={Wang, Guangcong and Lai, Jianhuang and Huang, Peigen and Xie, Xiaohua},
-  booktitle={Association for the Advancement of Artificial Intelligence (AAAI)},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  pages={8933-8940},
   year={2019}
 }
