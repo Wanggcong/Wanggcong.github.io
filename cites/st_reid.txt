@@ -1,4 +1,4 @@
-@article{guangcong2019aaai,
+@inproceedings{guangcong2019aaai,
   title={Spatial-Temporal Person Re-identification},
   author={Wang, Guangcong and Lai, Jianhuang and Huang, Peigen and Xie, Xiaohua},
   booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
