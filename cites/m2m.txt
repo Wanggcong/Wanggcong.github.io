@@ -1,7 +1,7 @@
 
 @article{lwq2018m2m,
   title={M2M-GAN: Many-to-Many Generative Adversarial Transfer Learning for Person Re-Identification},
-  author={Wenqi Liang, Guangcong Wang, Jianhuang Lai, Junyong Zhu},
+  author={Wenqi Liang and Guangcong Wang and Jianhuang Lai and Junyong Zhu},
   journal={arXiv preprint arXiv:1811.03768},
   year={2018}
 }
