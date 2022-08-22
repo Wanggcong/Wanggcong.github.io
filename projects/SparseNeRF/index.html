@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="description" content="StyleLight: HDR Panorama Generation for Lighting Estimation and Editing">
+  <meta name="keywords" content="Nerfies, D-NeRF, NeRF">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>StyleLight: HDR Panorama Generation for Lighting Estimation and Editing</title>
+
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro" rel="stylesheet">
+
+  <link rel="stylesheet" href="./static/css/bulma.min.css">
+  <link rel="stylesheet" href="./static/css/bulma-carousel.min.css">
+  <link rel="stylesheet" href="./static/css/bulma-slider.min.css">
+  <link rel="stylesheet" href="./static/css/fontawesome.all.min.css">
+  <script src="https://kit.fontawesome.com/ec39017701.js" crossorigin="anonymous"></script>
+
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="./static/css/index.css">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script defer src="./static/js/fontawesome.all.min.js"></script>
+  <script src="./static/js/bulma-carousel.min.js"></script>
+  <script src="./static/js/bulma-slider.min.js"></script>
+  <script src="./static/js/index.js"></script>
+</head>
+
+<body>
+  <div id="loading">
+    <div class="loader"></div>
+    <!-- <img id="loading-image" src="path/to/ajax-loader.gif" alt="Loading..." /> -->
+  </div>
+
+
+
+  <!-- <script> magnify("myimage", 3); </script> -->
+
+  <section class="hero">
+    <div class="hero-body">
+      <div class="container is-max-desktop">
+        <div class="columns is-centered">
+          <div class="column has-text-centered">
+            <h1 class="title is-1 publication-title">StyleLight: HDR Panorama Generation for Lighting Estimation and Editing</h1>
+            <div class="is-size-5 publication-authors">
+              <span class="author-block">
+                <h3 style="color:#094879;">ECCV 2022</h3>
+
+                <span class="author-block">
+                  <a href="https://wanggcong.github.io/" target="_blank">Guangcong Wang</a>, </span>
+                <span class="author-block">
+                  <a href="https://www.linkedin.com/in/yinuo-yang-489487245/" target="_blank">Yinuo Yang</a>, </span>
+                <!--&#8224-->
+                <span class="author-block">
+                  <a href="https://www.mmlab-ntu.com/person/ccloy/" target="_blank">Chen Change Loy</a>,
+                </span>
+                <span class="author-block">
+                  <a href="https://liuziwei7.github.io/" target="_blank">Ziwei Liu</a><sup> ✉</sup>
+                </span>
+            </div>
+
+            <div class="is-size-5 publication-authors">
+              <span class="author-block">S-Lab, Nanyang Technological University </span>
+            </div>
+
+            <div class="column has-text-centered">
+              <div class="publication-links">
+                <!-- PDF Link. -->
+                <!-- <span class="link-block">
+                <a href="" target="_blank"
+                   class="external-link button is-normal is-rounded is-dark inactiveLink">
+                  <span class="icon">
+                      <i class="fas fa-file-pdf"></i>
+                  </span>
+                  <span>Paper</span>
+                </a>
+              </span> -->
+                <span class="link-block">
+                  <a href="https://arxiv.org/abs/2207.14811" target="_blank"
+                    class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon">
+                      <i class="ai ai-arxiv"></i>
+                    </span>
+                    <span>Arxiv</span>
+                  </a>
+                </span>
+                <!-- Video Link. -->
+                <span class="link-block">
+                  <a href="https://www.youtube.com/watch?v=sHeWK1MSPg4" target="_blank"
+                    class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon">
+                      <i class="fab fa-youtube"></i>
+                    </span>
+                    <span>Video</span>
+                  </a>
+                </span>
+                <!-- Code Link. -->
+                <span class="link-block">
+                  <a href="https://github.com/Wanggcong/StyleLight" target="_blank"
+                    class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon">
+                      <i class="fab fa-github"></i>
+                    </span>
+                    <span>GitHub</span>
+                  </a>
+                </span>
+                <!-- Dataset Link. 
+
+                <span class="link-block">
+                  <a href="" class="external-link button is-normal is-rounded is-dark inactiveLink">
+                    <span class="icon">
+                      <i class="far fa-images"></i>
+                    </span>
+                    <span>Data (To be Released)</span>
+                  </a>
+                  -->
+              </div>
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <br><br>
+  <!-- Teaser Picture -->
+  <section class="hero teaser">
+    <div class="container is-max-desktop">
+      <div class="hero-body">
+        <!-- <img class="thumbnail" src="static/images/stylelight_teaser.png" style="width:120%; margin-bottom:20px"> -->
+        <!-- <div class="img-magnifier-container">
+        <img id="magnifyimg" src="static/images/stylelight_teaser.png" style="width:100%; margin-bottom:20px">
+      </div> -->
+
+        <a href="" target="_blank">
+          <img class="cover" id="mag" src="./static/images/teaser4_page-0001.jpeg"
+            style="width:800px; margin-bottom:20px">
+          <!-- <img class="cover" id="mag"  src="https://images.alphacoders.com/108/1086836.jpg" style="width:100%; margin-bottom:20px"> -->
+        </a>
+        <!-- <h3 class="has-text-centered">Hover mouse over the image for a zoomed-in view.</h3> -->
+        <!-- <script>
+        magnify("mag", 3);
+      </script> -->
+      </div>
+    </div>
+
+  </section>
+
+
+  <!-- Abstract. -->
+  <section class="section">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-four-fifths">
+          <h2 class="title is-3">Abstract</h2>
+          <div class="content has-text-justified">
+            <p>
+              We present a new lighting estimation and editing framework to generate high-dynamic-range (HDR) indoor panorama lighting from a single limited field-of-view (FOV) image captured by low-dynamic-range (LDR) cameras. Existing lighting estimation methods either directly regress lighting representation parameters or decompose this problem into FOV-to-panorama and LDR-to-HDR lighting generation sub-tasks. However, due to the partial observation, the high-dynamic-range lighting, and the intrinsic ambiguity of a scene, lighting estimation remains a challenging task. To tackle this problem, we propose a coupled dual-StyleGAN panorama synthesis network (StyleLight) that integrates LDR and HDR panorama synthesis into a unified framework. The LDR and HDR panorama synthesis share a similar generator but have separate discriminators. During inference, given an LDR FOV image, we propose a focal-masked GAN inversion method to find its latent code by the LDR panorama synthesis branch and then synthesize the HDR panorama by the HDR panorama synthesis branch. StyleLight takes FOV-to-panorama and LDR-to-HDR lighting generation into a unified framework and thus greatly improves lighting estimation. Extensive experiments demonstrate that our framework achieves superior performance over state-of-the-art methods on indoor lighting estimation. Notably, StyleLight also enables intuitive lighting editing on indoor HDR panoramas, which is suitable for real-world applications. Our code will be released to facilitate future research.
+            </p>
+          </div>
+        </div>
+      </div>
+  </section>
+  <!--/ Abstract. -->
+
+
+
+
+
+  <h3 class="title is-4 has-text-centered">Pipeline</h3>
+  <section class="hero teaser">
+    <div class="container is-max-desktop">
+      <div class="hero-body">
+        <a href="" target="_blank">
+        <div align="center">
+          <img class="cover" id="mag" src="./static/images/stylelight_pipeline.png"
+            style="width:95%; margin-bottom:20px">
+          <!-- <img class="cover" id="mag"  src="https://images.alphacoders.com/108/1086836.jpg" style="width:100%; margin-bottom:20px"> -->
+        </div>    
+        </a>
+        <!-- <h3 class="has-text-centered">Hover mouse over the image for a zoomed-in view.</h3> -->
+        <!-- <script>
+        magnify("mag", 3);
+      </script> -->
+      </div>
+    </div>
+
+  </section>
+
+  <h3 class="title is-4 has-text-centered">HDR Panorama Generation</h3>
+  <section class="hero teaser">
+    <div class="container is-max-desktop">
+      <div class="hero-body">
+        <a href="" target="_blank">
+        <div align="center">
+          <img class="cover" id="mag" src="./static/images/stylelight_fov2pano.png"
+            style="width:95%; margin-bottom:20px">
+          <!-- <img class="cover" id="mag"  src="https://images.alphacoders.com/108/1086836.jpg" style="width:100%; margin-bottom:20px"> -->
+        </div>    
+        </a>
+        <!-- <h3 class="has-text-centered">Hover mouse over the image for a zoomed-in view.</h3> -->
+        <!-- <script>
+        magnify("mag", 3);
+      </script> -->
+      </div>
+    </div>
+
+  </section>
+
+  <h3 class="title is-4 has-text-centered">Relighting</h3>
+  <section class="hero teaser">
+    <div class="container is-max-desktop">
+      <div class="hero-body">
+        <a href="" target="_blank">
+        <div align="center">
+          <img class="cover" id="mag" src="./static/images/stylelight_render.png"
+            style="width:95%; margin-bottom:20px">
+          <!-- <img class="cover" id="mag"  src="https://images.alphacoders.com/108/1086836.jpg" style="width:100%; margin-bottom:20px"> -->
+        </div>    
+        </a>
+        <!-- <h3 class="has-text-centered">Hover mouse over the image for a zoomed-in view.</h3> -->
+        <!-- <script>
+        magnify("mag", 3);
+      </script> -->
+      </div>
+    </div>
+
+  </section>  
+
+  <h3 class="title is-4 has-text-centered">Lighting Editing</h3>
+  <section class="hero teaser">
+    <div class="container is-max-desktop">
+      <div class="hero-body">
+        <a href="" target="_blank">
+        <div align="center">
+          <img class="cover" id="mag" src="./static/images/stylelight_editing.png"
+            style="width:95%; margin-bottom:20px">
+          <!-- <img class="cover" id="mag"  src="https://images.alphacoders.com/108/1086836.jpg" style="width:100%; margin-bottom:20px"> -->
+        </div>    
+        </a>
+        <!-- <h3 class="has-text-centered">Hover mouse over the image for a zoomed-in view.</h3> -->
+        <!-- <script>
+        magnify("mag", 3);
+      </script> -->
+      </div>
+    </div>
+
+  </section> 
+    
+  <br><br><br>
+
+    <!-- Paper video.-->
+  <section>
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-three-fifths">
+        <h2 class="title is-3">Overview Video</h2>
+        <div class="publication-video" >
+          <iframe src="https://www.youtube.com/embed/sHeWK1MSPg4" frameborder="10"
+            allow="autoplay; encrypted-media" width="100%"  allowfullscreen></iframe>
+        </div>
+
+      </div>
+    </div>
+  </section> 
+  
+    <br>
+    <br>
+
+    <h2 class="title is-3 has-text-centered">Results of lighting estimation</h2>
+
+    <div align="center">
+    <video id="replay-video" controls muted preload autoplay loop width="50%">
+      <source src="./static/video/lighting_estimation_demo_small.mp4" type="video/mp4">
+    </video>
+    </div>
+
+    <br><br><br>
+
+        <h2 class="title is-3 has-text-centered">Results of lighting editing</h2>
+
+    <div align="center">
+    <video id="replay-video" controls muted preload autoplay loop width="50%">
+      <source src="./static/video/demo_video_lighting_editing_small2.mp4" type="video/mp4">
+    </video>
+    </div>
+
+    <br><br><br>
+
+  <!--/ Style-mixing -->
+  
+  <section class="section" id="Citaton">
+    <div class="container is-max-desktop content">
+      <h2 class="title">Related Links</h2>
+      <p><a href="https://github.com/FrozenBurning/Relighting4D">Relighting4D: Neural Relightable Human from Videos, ECCV 2022.</a></p>
+      <p><a href="http://vision.gel.ulaval.ca/~jflalonde/publications/projects/deepIndoorLight/index.html">Gardner et al. Learning to Predict Indoor Illumination from a Single Image, SIGGRAPH Asia, 2017.</a></p>
+      <p><a href="https://lvsn.github.io/deepparametric/">Gardner et al. Deep Parametric Indoor Lighting Estimation, ICCV 2019.</a></p>
+      <p><a href="https://github.com/fnzhan/Illumination-Estimation">Zhan et al. EMlight:Lighting Estimation via Spherical Distribution Approximation, AAAI 2021.</a></p>
+    </div>
+  </section>
+  
+  <section class="section" id="Citaton">
+    <div class="container is-max-desktop content">
+      <h2 class="title">BibTeX</h2>
+      <pre><code>@inproceedings{wang2022stylelight,
+   author    = {Wang, Guangcong and Yang, Yinuo and Loy, Chen Change and Liu, Ziwei},
+   title     = {StyleLight: HDR Panorama Generation for Lighting Estimation and Editing},
+   booktitle = {European Conference on Computer Vision (ECCV)},   
+   year      = {2022},
+  }</code></pre>
+    </div>
+  </section>
+
+
+  <footer class="footer">
+    <div class="logos">
+      <img class="thumbnail" src="static/images/NTU.png" style="height:50px;">
+    </div>
+    <br>
+    <div class="columns is-centered">
+      <div class="content">
+        <p> Thanks to the great effort done by Nerfies' project, we borrow the website template from <a
+            href="https://github.com/nerfies/nerfies.github.io" target="_blank"> nerfies's webpage</a>. </p>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    $(window).on('load', function () {
+      $('#loading').hide();
+    })
+  </script>
+</body>
+
+</html>
