@@ -6,7 +6,7 @@
   <meta name="description" content="StyleLight: HDR Panorama Generation for Lighting Estimation and Editing">
   <meta name="keywords" content="Nerfies, D-NeRF, NeRF">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>StyleLight: HDR Panorama Generation for Lighting Estimation and Editing</title>
+  <title>SparseNeRF: Distilling Depth Ranking for Few-shot Novel View Synthesis</title>
 
   <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro" rel="stylesheet">
 
@@ -50,7 +50,7 @@
                 <span class="author-block">
                   <a href="https://wanggcong.github.io/" target="_blank">Guangcong Wang</a>, </span>
                 <span class="author-block">
-                  <a href="https://www.linkedin.com/in/yinuo-yang-489487245/" target="_blank">Yinuo Yang</a>, </span>
+                  <a href="https://frozenburning.github.io/" target="_blank">Zhaoxi Chen</a>, </span>
                 <!--&#8224-->
                 <span class="author-block">
                   <a href="https://www.mmlab-ntu.com/person/ccloy/" target="_blank">Chen Change Loy</a>,
@@ -157,7 +157,7 @@
           <h2 class="title is-3">Abstract</h2>
           <div class="content has-text-justified">
             <p>
-              We present a new lighting estimation and editing framework to generate high-dynamic-range (HDR) indoor panorama lighting from a single limited field-of-view (FOV) image captured by low-dynamic-range (LDR) cameras. Existing lighting estimation methods either directly regress lighting representation parameters or decompose this problem into FOV-to-panorama and LDR-to-HDR lighting generation sub-tasks. However, due to the partial observation, the high-dynamic-range lighting, and the intrinsic ambiguity of a scene, lighting estimation remains a challenging task. To tackle this problem, we propose a coupled dual-StyleGAN panorama synthesis network (StyleLight) that integrates LDR and HDR panorama synthesis into a unified framework. The LDR and HDR panorama synthesis share a similar generator but have separate discriminators. During inference, given an LDR FOV image, we propose a focal-masked GAN inversion method to find its latent code by the LDR panorama synthesis branch and then synthesize the HDR panorama by the HDR panorama synthesis branch. StyleLight takes FOV-to-panorama and LDR-to-HDR lighting generation into a unified framework and thus greatly improves lighting estimation. Extensive experiments demonstrate that our framework achieves superior performance over state-of-the-art methods on indoor lighting estimation. Notably, StyleLight also enables intuitive lighting editing on indoor HDR panoramas, which is suitable for real-world applications. Our code will be released to facilitate future research.
+              Neural Radiance Field (NeRF) has achieved remarkable results in synthesizing photo-realistic novel views with implicit function representations. However, NeRF significantly degrades when only a few views are available. To address this problem, existing few-shot NeRF methods impose sparsity and continuity regularizations on geometry (\emph{e.g.}, density and depth), or exploit high-level semantics to guide the learning of NeRF. Although these methods reduce degradation in few-shot scenarios, they still struggle to synthesize photo-realistic novel views due to insufficient 3D constraints. To complement the lack of 3D information, we present a new Sparse-view NeRF (\textbf{SparseNeRF}) framework that effectively exploits robust depth priors from a large pre-trained depth model. Since the depth estimation of large pre-trained depth models is coarse, we propose a local depth ranking constraint on NeRF such that the expected depth ranking of the NeRF is consistent with that of the pre-trained depth model in local patches. To preserve spatial continuity of the estimated depth of NeRF, we further propose a spatial continuity constraint such that the expected depth continuity of NeRF is consistent with that of the pre-trained depth model. With the distilled depth priors of large pre-trained depth models, SparseNeRF outperforms all of the state-of-the-art few-shot NeRF methods. Extensive experiments on the LLFF and DTU benchmarks show the effectiveness and superiority of SparseNeRF. Code and models will be released.
             </p>
           </div>
         </div>
