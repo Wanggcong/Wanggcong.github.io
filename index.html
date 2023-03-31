@@ -90,8 +90,21 @@ a, a:visited { color : #0050e7; }
                 <br>
                 Address: ABN-02b-14, S-LAB, Nanyang Avenue  
                 <br>
-			</p>
+		</p>
 
+		<script>
+		    function func_1() {
+			document.getElementById("star_counter").innerHTML = 'If not print for seconds, please refresh';
+			github_id = document.getElementById("user").value;
+			document.getElementById("star_counter").innerHTML = cal_github_star(github_id);
+		    }
+		</script>
+
+
+		Input github id: <input name="user" value="wanggcong" type="text" id="user">
+		<input name="Button" type="button" value="Calculate" onClick="func_1()">
+
+		<p id="star_counter"></p>
             <br>
 
 		</div>
