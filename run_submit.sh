@@ -7,3 +7,5 @@ git pull homepage master:master # git pull <remote> <remote_branch>:<local_branc
 git add .
 git commit -m "$current_time"
 git push -u homepage master:master # git push -u <remote> <local_branch>:<remote_branch>
+
+
