@@ -12,7 +12,7 @@
 ### 导师简介
 [王广聪](https://wanggcong.github.io/), 大湾区大学助理教授，2020年获得中山大学博士，师从赖剑煌教授，同时也受谢晓华教授合作指导。2021年至2024年担任南洋理工大学的计算机科学与工程学院的博士后研究员，合作导师为Ziwei Liu教授和Chen Change (Cavan) Loy教授。
 
-研究兴趣是机器学习，深度学习，人工智能与科学技术。他已经发表多篇顶级期刊会议论文，包括TPAMI, TOG, TNNLS, TIP, TCSVT, ICCV, CVPR, ECCV, NeurIPS, KDD, AAAI。目前是多个顶刊顶会审稿人，包括TPAMI, IJCV, SIGGRAPH, ICML, NeurIPS, ICCV, CVPR, ECCV, ICLR, AAAI, MM, ICPR, ACCV, TIP, TOMM, TCSVT, Signal Processing Letters, Neurocomputing等期刊会议的审稿人。获得了中国电子教育学会优秀博士学位论文。被评选为ICCV 2023杰出审稿人（Outstanding Reviewer）.
+研究兴趣是机器学习，深度学习，人工智能与科学技术。他已经发表多篇顶级期刊会议论文，包括TPAMI, TOG, TNNLS, TIP, TCSVT, ICCV, CVPR, ECCV, NeurIPS, KDD, AAAI。目前是多个顶刊顶会审稿人，包括TPAMI, IJCV, SIGGRAPH, ICML, NeurIPS, ICCV, CVPR, ECCV, ICLR, AAAI, MM, ICPR, ACCV, TIP, TOMM, TCSVT, Signal Processing Letters, Neurocomputing等期刊会议的审稿人。担任BMVC 区域主席。获得了中国电子教育学会优秀博士学位论文。被评选为ICCV 2023杰出审稿人（Outstanding Reviewer）.
 
 ### 招生方向
 主要围绕机器学习、深度学习、3D图像图形，从以下方面展开研究：
